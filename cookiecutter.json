@@ -1,0 +1,8 @@
+{
+  "author_name": "me",
+  "author_url": "me@me.com",
+  "license": "APL2",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt",
+  "module_name": "my-module",
+  "provider": "aws"
+}
