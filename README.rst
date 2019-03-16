@@ -43,7 +43,7 @@ Create a new project directly from the template on `GitHub`_:
 
 .. code-block:: console
 
-    $ cookiecutter gh:QuiNovas/cookiecutter-terraform_module
+    $ cookiecutter gh:QuiNovas/cookiecutter-terraform-module
 
 Items
 -----
